@@ -1,4 +1,4 @@
-### Features Implemented:
+### Features to be Implemented:
 * Test structure follows Arrange, Act and Assert (AAA) Pattern
 * Page object model with fixtures
 * UI and API tests
@@ -13,7 +13,7 @@
 
 ```bash
 # Clone the repository
-git clone git@github.com:tux7P/Fibber.git
+git@github.com:tux7P/Blinky.git
 
 # Install Dependencies
 npm i
