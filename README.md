@@ -1,3 +1,8 @@
+# End-to-End Automation of Speechify Web Interface
+
+Automate the web interface of speechify web application using playwright and typescript. 
+
+
 ### Features to be Implemented:
 * Test structure follows Arrange, Act and Assert (AAA) Pattern
 * Page object model with fixtures
