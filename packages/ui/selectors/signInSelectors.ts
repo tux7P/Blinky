@@ -1,9 +1,9 @@
 export const signInSelectors = {
-  url: 'https://studio.speechify.com/sign-in',
-  emailInput: '[data-testid="email-input"]',
-  passwordInput: '[data-testid="password-input"]',
-  continueButton: '[data-testid="auth-submit-btn"]',
-  dashboardUrl: 'https://studio.speechify.com/dashboard',
+  url: 'https://account.getblock.io/sign-in',
+  emailInput: '[data-testid="emailInput"] input',
+  passwordInput: '[data-testid="passwordInput"] input',
+  continueButton: '[data-testid="signInButton"]',
+  dashboardUrl: 'https://account.getblock.io/',
   dashboardText: 'text=Home',
   homeBreadcrumb: '[data-testid="first-breadcrumb"]',
 };

@@ -18,6 +18,7 @@ export class SignInPage {
   }
 
   async clickSignIn() {
+    console.log('I clicked signin:');
     await this.page.locator(signInSelectors.continueButton).click();
   }
 
